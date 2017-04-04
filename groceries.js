@@ -2,7 +2,7 @@
 
 function addItem()
 {
-  //code built upon from kbuffardi's examples in class
+  //code built upon from kbuffardi's examples in class to learn from
   var input = document.getElementById("newItem").value;
   var list = document.getElementById("listDisplay");
   var item = document.createElement("li");
